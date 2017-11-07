@@ -18,6 +18,8 @@ TheArtOfLewisMoorcroft.Core/[Oo]bj/*
 # =============================
 TheArtOfLewisMoorcroft.Web/[Bb]in/*
 TheArtOfLewisMoorcroft.Web/[Oo]bj/*
+TheArtOfLewisMoorcroft.Web/App_Data/NuGetBackup/*
+
 
 # =============================
 # NuGet
