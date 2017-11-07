@@ -18,7 +18,19 @@ TheArtOfLewisMoorcroft.Core/[Oo]bj/*
 # =============================
 TheArtOfLewisMoorcroft.Web/[Bb]in/*
 TheArtOfLewisMoorcroft.Web/[Oo]bj/*
+
+
+# =============================
+# Umbraco
+# =============================
+TheArtOfLewisMoorcroft.Web/App_Data/Logs/*
 TheArtOfLewisMoorcroft.Web/App_Data/NuGetBackup/*
+TheArtOfLewisMoorcroft.Web/App_Data/TEMP/ClientDependency/*
+TheArtOfLewisMoorcroft.Web/App_Data/TEMP/DistCache/*
+TheArtOfLewisMoorcroft.Web/App_Data/TEMP/ExamineIndexes/*
+TheArtOfLewisMoorcroft.Web/App_Data/TEMP/PluginCache/*
+TheArtOfLewisMoorcroft.Web/App_Data/umbraco.config
+TheArtOfLewisMoorcroft.Web/App_Data/Umbraco.sdf
 
 
 # =============================
