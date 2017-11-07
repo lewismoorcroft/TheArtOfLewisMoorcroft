@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2006
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheArtOfLewisMoorcroft.Core", "TheArtOfLewisMoorcroft.Core\TheArtOfLewisMoorcroft.Core.csproj", "{CE97DE7B-CE4A-4D18-954F-3413D9C7A744}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheArtOfLewisMoorcroft.Web", "TheArtOfLewisMoorcroft.Web\TheArtOfLewisMoorcroft.Web.csproj", "{41289A9D-94A3-45EE-AE63-69B2C2E520F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CE97DE7B-CE4A-4D18-954F-3413D9C7A744}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE97DE7B-CE4A-4D18-954F-3413D9C7A744}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE97DE7B-CE4A-4D18-954F-3413D9C7A744}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41289A9D-94A3-45EE-AE63-69B2C2E520F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41289A9D-94A3-45EE-AE63-69B2C2E520F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41289A9D-94A3-45EE-AE63-69B2C2E520F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41289A9D-94A3-45EE-AE63-69B2C2E520F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
